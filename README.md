@@ -1,2 +1,2 @@
-# ASP.NET-Core-Example-Repository
-Repository Generic
+# ASP.NET-Core-Repository-Example
+Example Code Repository

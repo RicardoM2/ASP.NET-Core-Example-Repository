@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5BCD7E31-4642-4464-BE9F-F8B7500FF245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.EFCore", "DataAccess.EFCore\DataAccess.EFCore.csproj", "{E58961F1-498C-4EFB-AD7E-76038B4612E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPi", "WebAPi\WebAPi.csproj", "{90E086DB-E2DC-4B93-BD0B-E72B6A42856D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BCD7E31-4642-4464-BE9F-F8B7500FF245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCD7E31-4642-4464-BE9F-F8B7500FF245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCD7E31-4642-4464-BE9F-F8B7500FF245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCD7E31-4642-4464-BE9F-F8B7500FF245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58961F1-498C-4EFB-AD7E-76038B4612E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58961F1-498C-4EFB-AD7E-76038B4612E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58961F1-498C-4EFB-AD7E-76038B4612E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58961F1-498C-4EFB-AD7E-76038B4612E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E086DB-E2DC-4B93-BD0B-E72B6A42856D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E086DB-E2DC-4B93-BD0B-E72B6A42856D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E086DB-E2DC-4B93-BD0B-E72B6A42856D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E086DB-E2DC-4B93-BD0B-E72B6A42856D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75214E04-E4A8-4CE8-921B-22037EA05510}
+	EndGlobalSection
+EndGlobal
